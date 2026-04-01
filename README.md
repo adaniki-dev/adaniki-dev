@@ -16,7 +16,17 @@ Building robust, scalable applications with modern web technologies and cloud-na
 
 ## About Me
 
-Software Engineer with extensive experience in the JavaScript/TypeScript ecosystem, from crafting pixel-perfect interfaces to architecting backend services and deploying cloud-native infrastructure. Passionate about clean code, automation, and delivering real value through technology.
+I'm a Software Engineer from Minas Gerais, Brazil, with over 5 years of experience building SaaS products and web platforms end-to-end. I work across the full stack — from crafting interfaces with React and Next.js to designing APIs with NestJS and delivering it all through automated pipelines with Docker, Kubernetes, and ArgoCD.
+
+I'm the kind of developer who thinks architecture through before writing the first line of code. I value **simplicity** and **maintainability** above all — code should be easy to read, easy to change, and built to last. I've worked on systems where scale and performance were the real challenge, and that shaped how I approach every problem today.
+
+I thrive in small, focused teams where communication is direct and everyone owns their work. I'm always open to collaboration and believe the best software comes from people who actually enjoy building things together.
+
+Currently deepening my knowledge in **Cloud Architecture (AWS/GCP)** and looking to contribute more to **open source** projects. I'm always learning — that's what keeps this craft exciting.
+
+When I'm away from the keyboard, you'll find me with a good cup of coffee, gaming, or catching up on anime.
+
+**Let's connect — I'm always up for a good conversation about tech.**
 
 ---
 
