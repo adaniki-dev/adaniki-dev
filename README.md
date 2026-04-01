@@ -53,14 +53,23 @@ Software Engineer with extensive experience in the JavaScript/TypeScript ecosyst
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adaniki-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaniki-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=adaniki-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adaniki-dev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adaniki-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adaniki-dev&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adaniki-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=adaniki-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=adaniki-dev&theme=default&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 </div>
 
