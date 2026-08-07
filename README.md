@@ -16,7 +16,7 @@ Building and operating SaaS platforms end-to-end, from the interface down to the
 
 ## About Me
 
-Software Engineer from Minas Gerais, Brazil, with over 7 years of experience building SaaS products and web platforms. I work the full path: React and Next.js on the front, NestJS and Node/Bun APIs on the back, Kubernetes with ArgoCD carrying it to production. What I care about most is the space *between* those layers, where the contracts live, where the failure modes hide, and where a decision made six months ago starts charging interest.
+Software Engineer from Minas Gerais, Brazil, with over 5 years of experience building SaaS products and web platforms. I work the full path: React and Next.js on the front, NestJS and Node/Bun APIs on the back, Kubernetes with ArgoCD carrying it to production. What I care about most is the space *between* those layers, where the contracts live, where the failure modes hide, and where a decision made six months ago starts charging interest.
 
 Most of my recent work is on a multi-tenant SaaS platform I build and operate: container orchestration across multiple Kubernetes clusters, identity and SSO, a payment layer spanning several gateways, and a server-side tracking pipeline. Owning it end-to-end means there's no other team to hand a problem to. I debug the FreeMarker login template, the Prisma query, and the autoscaler's behavior in the same afternoon, and I've learned to like that.
 
